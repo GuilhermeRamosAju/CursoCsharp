@@ -6,6 +6,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            // Saída de dados em C#
+
             string produto1 = "Computador";
             string produto2 = "Mesa de escritório";
 
